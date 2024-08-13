@@ -10,8 +10,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live link](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-using-css-grid-QQaGhwZAsM)
+- Live Site URL: [Live link](https://four-card-feature-section-fem-five.vercel.app/)
 
 ### Built with
 
@@ -23,5 +23,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Author
 
-- Frontend Mentor - [@mistahjude](https://www.frontendmentor.io/profile/mistahjude)
-- X - [@mistahjude](https://www.x.com/mistahjude)
+- Frontend Mentor - [Mistah Jude](https://www.frontendmentor.io/profile/mistahjude)
+- X - [Mistah Jude](https://www.x.com/mistahjude)
